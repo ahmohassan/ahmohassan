@@ -19,6 +19,11 @@
 <img align="left"  src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
 <img align="left"  src='https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white' />
 
+
+# 📚pined book post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmohassan&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmohassan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
