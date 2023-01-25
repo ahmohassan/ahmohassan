@@ -34,7 +34,7 @@
 <!-- # <br/>
 # <br/>
 # <br/> -->
- <div style=""><br/>
+ <div align="left" style=""><br/>
 # 📚My pined book post
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
