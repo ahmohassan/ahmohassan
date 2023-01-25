@@ -10,18 +10,15 @@
 </div>
 
 
-# <br/>
-# <br/>
-# <br/>
-# <br/>
+
 <div align="center" style="display: inline_block">
-  <img align="left"  src='https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white' />
+  <img align="center"  src='https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white' />
 
-  <img align="left"  src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white' />
+  <img align="center"  src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white' />
 
-  <img align="left"  src='https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white' />
+  <img align="center"  src='https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white' />
 
-  <img align="left"   src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white' />
+  <img align="center"   src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white' />
 <!--  ## Foo -->
 
 </div>
@@ -33,11 +30,11 @@
 <img align="right"  src='https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white' />
  -->
 <!-- <div> -->
-# <br/>
+<!-- # <br/> -->
 <!-- # <br/>
 # <br/>
 # <br/> -->
-<!--  <div><br/> -->
+ <div style=""><br/>
 # 📚My pined book post
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
@@ -48,7 +45,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ![Snake animation](https://github.com/ahmohassan/ahmohassan/blob/output/github-contribution-grid-snake.svg)
-<!--  </div> -->
+ </div>
 
 <!-- ![snake gif](https://github.com/ahmohassan/ahmohassan/blob/output/github-contribution-grid-snake.gif) -->
 
