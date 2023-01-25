@@ -2,9 +2,13 @@
 
 <img align="left" width="47%" src='https://github-readme-stats.vercel.app/api?username=ahmohassan&show_icons=true&theme=radical' />
 
+
 <img align="left" width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ahmohassan&layout=compact' />
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 <img align="left"  src='https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white' />
 
 <img align="left"  src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white' />
@@ -13,12 +17,13 @@
 
 <img   src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white' />
 
-<img align="left"  src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
-<img align="left"  src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
-<img align="left"  src='https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white' />
-<img align="left"  src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
-<img align=""  src='https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white' />
 
+<!-- <img align="right"  src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
+<img align="right"  src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+<img align="right"  src='https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white' />
+<img align="right"  src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
+<img align="right"  src='https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white' />
+ -->
 
 # 📚My pined book post
 <!-- BLOG-POST-LIST:START -->
@@ -27,6 +32,8 @@
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+
+![Snake animation](https://github.com/caaqil-mmc/caaqil-mmc/blob/output/github-contribution-grid-snake.svg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmohassan&show_icons=true&theme=radical)
