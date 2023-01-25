@@ -7,21 +7,35 @@
 <div align="center">
  <img align="left" width="47%" src='https://github-readme-stats.vercel.app/api?username=ahmohassan&show_icons=true&theme=radical' />
  <img align="left" width="45%" hight="45%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ahmohassan&layout=compact&show_icons=true&theme=radical&langs_count=6' />
+
+## <br/>
+## <br/>
 </div>
 
 
+## <br/>
+## <br/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Caaqil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Caaqil-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Caaqil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Caaqil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Caaqil-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Caaqil-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
 
-<div align="center" style="display: inline_block">
+</div>
+<!-- <div align="center" style="display: inline_block">
   <img align="center"  src='https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white' />
 
   <img align="center"  src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white' />
 
   <img align="center"  src='https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white' />
 
-  <img align="center"   src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white' />
+  <img align="center"   src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white' /> -->
 <!--  ## Foo -->
 
-</div>
+<!-- </div> -->
 
 <!-- <img align="right"  src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
 <img align="right"  src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
@@ -31,10 +45,9 @@
  -->
 <!-- <div> -->
 <!-- # <br/> -->
-<!-- # <br/>
+
 # <br/>
-# <br/> -->
-<div align="left" style=""><br/>
+<!-- <div align="left" style=""><br/> -->
   # 📚My pined book post
   <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
@@ -45,7 +58,7 @@
 <!-- BLOG-POST-LIST:END -->
 
   ![Snake animation](https://github.com/ahmohassan/ahmohassan/blob/output/github-contribution-grid-snake.svg)
- </div>
+<!--  </div> -->
 
 <!-- ![snake gif](https://github.com/ahmohassan/ahmohassan/blob/output/github-contribution-grid-snake.gif) -->
 
