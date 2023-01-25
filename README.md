@@ -1,22 +1,30 @@
-### Hi there i'm Ahmed👋
+### Hi there 👋
+# i'm Ahmed
 
-<img align="left" width="47%" src='https://github-readme-stats.vercel.app/api?username=ahmohassan&show_icons=true&theme=radical' />
+#### I'm a Full Stack Developer and mobile-app Developer with 3+ years of experience in designing and developing user interfaces, testing, debugging, and training staff within modern technologies. <br/>
 
 
-<img align="left" width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ahmohassan&layout=compact' />
+<div align="center">
+ <img align="left" width="47%" src='https://github-readme-stats.vercel.app/api?username=ahmohassan&show_icons=true&theme=radical' />
+ <img align="left" width="45%" hight="45%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ahmohassan&layout=compact&show_icons=true&theme=radical&langs_count=6' />
+</div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<img align="left"  src='https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white' />
 
-<img align="left"  src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white' />
+# <br/>
+# <br/>
+# <br/>
+# <br/>
+<div align="center" style="display: inline_block">
+  <img align="left"  src='https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white' />
 
-<img align="left"  src='https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white' />
+  <img align="left"  src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white' />
 
-<img   src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white' />
+  <img align="left"  src='https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white' />
 
+  <img align="left"   src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white' />
+<!--  ## Foo -->
+
+</div>
 
 <!-- <img align="right"  src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
 <img align="right"  src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
@@ -24,7 +32,12 @@
 <img align="right"  src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
 <img align="right"  src='https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white' />
  -->
-
+<!-- <div> -->
+# <br/>
+<!-- # <br/>
+# <br/>
+# <br/> -->
+<!--  <div><br/> -->
 # 📚My pined book post
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
@@ -33,6 +46,11 @@
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
+
+![Snake animation](https://github.com/ahmohassan/ahmohassan/blob/output/github-contribution-grid-snake.svg)
+<!--  </div> -->
+
+<!-- ![snake gif](https://github.com/ahmohassan/ahmohassan/blob/output/github-contribution-grid-snake.gif) -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmohassan&show_icons=true&theme=radical)
 
